@@ -15,5 +15,5 @@ I've never been great at remembering all the useful advice I've encountered over
 
 Additions may be infrequent, as I will put more effort into the quality of content.
 
-Enjoy!
+Enjoy! Feel free to&#x20;
 

@@ -1,12 +1,20 @@
 # About
 
-### About this Digital Garden
+### About this Digital Garden 🌱
 
-* principles
-* inspiration - other digital gardens
-* platform - why Gitbook
+#### Principles
+
+#### Platform
+
+&#x20;\- why Gitbook
+
+#### inspiration
+
+&#x20;\- other digital gardens
 
 
 
-### About me
+
+
+### About me 👋
 

@@ -28,6 +28,7 @@
 2. [link](https://youtu.be/D\_QKsx6Je4w) - FAUN - Ne Aludj El
 3. [link](https://youtu.be/Z5NoQg8LdDk) - Polyphia - Playing God
 4. [link](https://youtu.be/vD3UZGQqbl8) - Sheku Kanneh-Mason - Song Of The Birds
+   * I am always reminded of this [recording](https://youtu.be/\_T8DjwLt\_c4) by Pablo Casals as well
 
 ### June 2022
 
@@ -39,7 +40,7 @@
 
 1. [link](https://youtu.be/QfhxZMUy9DU) - Mozart: Bassoon Concerto B-flat major K. 191 – Theo Plath / Elias Grandy
 2. [link](https://youtu.be/OsA3iPO2fEg) - The Ultimate BIGBANG Playlist
-   1. a throwback to when I listened to them around a decade ago (and when they were most active)&#x20;
+   * a throwback to when I listened to them around a decade ago (and when they were most active)&#x20;
 3. [link](https://youtu.be/QyZIU--9q88) - Bach - Violin Concerto in E major BWV 1042 - Sato | Netherlands Bach Society
 
 ### April 2022
