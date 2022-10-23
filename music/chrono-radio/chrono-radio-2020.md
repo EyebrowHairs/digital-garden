@@ -2,28 +2,16 @@
 
 ### September 2020
 
-Bach - Cello Suite No. 5 in C minor BWV 1011 - Suzuki
-
-{% embed url="https://www.youtube.com/watch?v=zEHXTrJb3HQ" %}
-A somber piece
-{% endembed %}
+1. Bach - Cello Suite No. 5 in C minor BWV 1011 - Suzuki - [link](https://youtu.be/zEHXTrJb3HQ)
 
 ### August 2020
 
-Alisa Weilerstein - Cello Suite No. 4 in E-Flat Major, BWV 1010: I. Prélude
-
-{% embed url="https://youtu.be/O4vZ1VYYCso" %}
-
-Yo-Yo Ma - Cello Suite No. 4 in E-Flat Major, BWV 1010: I. Prélude&#x20;
-
-{% embed url="https://youtu.be/rnjvtSShi4c" %}
-I like the softer interpretation for this one by Yo-yo Ma (vs. Mischa Maisky’s)
-{% endembed %}
-
-1. Edward Elgar - Serenade for Strings Op.20 - [link](https://youtu.be/4WhN\_pjhHY8)
-2. Edward Elgar - Enigma Variations - [link](https://youtu.be/P2OhGH3rFi4)
-3. Rameau: Le Rappel des oiseaux - [link](https://youtu.be/LnulGNbPgnc)
-4. Rameau's "Le Rappel Des Oiseaux" played by Raphaël Feuillâtre - [link](https://youtu.be/cczqvOxFtm4) - on guitar!
+1. Alisa Weilerstein - Cello Suite No. 4 in E-Flat Major, BWV 1010: I. Prélude - [link](https://youtu.be/O4vZ1VYYCso)
+2. Yo-Yo Ma - Cello Suite No. 4 in E-Flat Major, BWV 1010: I. Prélude - [link](https://youtu.be/rnjvtSShi4c)
+3. Edward Elgar - Serenade for Strings Op.20 - [link](https://youtu.be/4WhN\_pjhHY8)
+4. Edward Elgar - Enigma Variations - [link](https://youtu.be/P2OhGH3rFi4)
+5. Rameau: Le Rappel des oiseaux - [link](https://youtu.be/LnulGNbPgnc)
+6. Rameau's "Le Rappel Des Oiseaux" played by Raphaël Feuillâtre - [link](https://youtu.be/cczqvOxFtm4) - on guitar!
 
 ### July 2020
 

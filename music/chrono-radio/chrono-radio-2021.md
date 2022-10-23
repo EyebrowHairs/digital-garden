@@ -4,8 +4,6 @@
 
 1. [link](https://youtu.be/LBjDdKdq\_tQ) - Mozart / Serenade for 13 Winds in B-flat major, K. 361 "Gran Partita" (Mackerras) - there are several familiar tunes in the middle
 
-***
-
 ### March 2021
 
 1. [link](https://youtu.be/eCngEqayi74) - Rameau, Ólafsson: The Arts and the Hours
@@ -18,13 +16,9 @@
 8. [link](https://youtu.be/YsbrRAgv1b4) - Sibelius Violin Concerto - Maxim Vengerov, Daniel Barenboim, Chicago S.O. (CSO) - I always seem to watch the whole thing
 9. [link](https://youtu.be/rVgdriOC\_wk) - Augustin Hadelich plays J.S. Bach's Violin Sonata No. 3 in C Major, BWV 1005: III. Largo
 
-***
-
 ### February 2021
 
 1. [link](https://youtu.be/fxLA1Cl2n34) - Ola Gjeilo - Night (full album)
-
-***
 
 ### January 2021
 
