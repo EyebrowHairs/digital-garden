@@ -1,5 +1,7 @@
 # 📻 Chrono-Radio 2021
 
+The year in which I slightly expanded from baroque to other classical music periods and composers (although I sitll love J.S. Bach), and even some modern choral works.
+
 ### April 2021
 
 1. [link](https://youtu.be/LBjDdKdq\_tQ) - Mozart / Serenade for 13 Winds in B-flat major, K. 361 "Gran Partita" (Mackerras) - there are several familiar tunes in the middle

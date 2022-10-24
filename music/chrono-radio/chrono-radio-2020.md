@@ -1,5 +1,7 @@
 # 📻 Chrono-Radio 2020
 
+The year in which I was infatuated with baroque music. And a few 70's/80's songs mixed in for good measure.
+
 ### September 2020
 
 1. Bach - Cello Suite No. 5 in C minor BWV 1011 - Suzuki - [link](https://youtu.be/zEHXTrJb3HQ)
