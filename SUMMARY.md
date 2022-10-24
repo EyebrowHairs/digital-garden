@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-  * [About](welcome/about.md)
+  * [About](about.md)
   * [Now](welcome/now.md)
 
 ## 🎵 Music

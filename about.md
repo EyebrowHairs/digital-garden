@@ -6,14 +6,14 @@
 
 #### Principles
 
-Honestly, I can't remember how I first encountered the concept of a digital garden. However, there is a [list of sources](https://github.com/MaggieAppleton/digital-gardeners) (handily collected by Maggie Appleton) that provides somewhat of a history of the idea, most of which I have read to form my own conception of what a digital garden is.&#x20;
+Honestly, I can't remember how I first encountered the concept of a digital garden. However, there is a [list of articles](https://github.com/MaggieAppleton/digital-gardeners) (handily collected by Maggie Appleton) that provides somewhat of a history of the idea, most of which I have read to form my own conception of what a digital garden is.&#x20;
 
 **My digital garden...**
 
 * **Contains** [**curated**](https://joelhooks.com/digital-garden) **ideas and online content that I'd like to revisit**. I have opted to share this publicly as a means of sharing knowledge, and also as a source of motivation (to create useful things for others).
-* **Can include anything**. I can curate content on any theme or topic, whatever suits my interest, and it can live harmoniously in this space.
+* **Can include anything**. I can curate content on any theme or topic, whatever suits my interest, and it can all live harmoniously in this space.
 * **Is a work in progress**. All pages can be updated and revised at any time (and not even regularly).
-* I**s not quite a blog** where each article is highly polished before being published. Neither is the content presented [chronologically](https://stackingthebricks.com/how-blogs-broke-the-web/). I'm also not concerned with racking up views or writing to monetize (which is such a waste of human effort and digital space).
+* I**s not quite a blog** where each article is highly polished before being published. Neither is the content presented [chronologically](https://stackingthebricks.com/how-blogs-broke-the-web/). I'm also not concerned with racking up views or writing purely to monetize (which is such a waste of human effort and digital space).
 
 #### Platform
 
@@ -33,6 +33,6 @@ However, on the plus side, my content is not entirely tied to this system, as I 
 
 ### About me 👋
 
-For recent updates, see my [now.md](now.md "mention") page.
+For recent updates, see my [now.md](welcome/now.md "mention") page.
 
 I am a student of information studies, violin-learner, crafter, reader, and [multipotentialite](https://en.wikipedia.org/wiki/Multipotentiality) (or generalist).&#x20;
