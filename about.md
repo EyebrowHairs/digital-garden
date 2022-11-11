@@ -6,7 +6,7 @@
 
 #### Principles
 
-Honestly, I can't remember how I first encountered the concept of a digital garden. However, there is a [list of articles](https://github.com/MaggieAppleton/digital-gardeners) (handily collected by Maggie Appleton) that provides somewhat of a history of the idea, most of which I have read to form my own conception of what a digital garden is.&#x20;
+Honestly, I can't remember how I first encountered the concept of a digital garden. However, there is a [list of articles](https://github.com/MaggieAppleton/digital-gardeners#theory-philosophy-and-navel-gazing) (handily collected by Maggie Appleton) that provides somewhat of a history of the idea, most of which I have read to form my own conception of what a digital garden is.&#x20;
 
 **My digital garden...**
 
@@ -35,4 +35,4 @@ However, on the plus side, my content is not entirely tied to this system, as I 
 
 For recent updates, see my [now.md](welcome/now.md "mention") page.
 
-I am a student of information studies, violin-learner, crafter, reader, and [multipotentialite](https://en.wikipedia.org/wiki/Multipotentiality) (or generalist).&#x20;
+I am a student of information studies, violin-learner, crafter, reader, and like to consider myself a [multipotentialite](https://en.wikipedia.org/wiki/Multipotentiality), or generalist (vs. specialist).&#x20;
