@@ -4,15 +4,6 @@
   * [About](about.md)
   * [Now](welcome/now.md)
 
-## 🎵 Music
+## 📥 To Be Categorized
 
-* [📻 Chrono-Radio](music/chrono-radio/README.md)
-  * [📻 Chrono-Radio 2022](music/chrono-radio/chrono-radio-2022.md)
-  * [📻 Chrono-Radio 2021](music/chrono-radio/chrono-radio-2021.md)
-  * [📻 Chrono-Radio 2020](music/chrono-radio/chrono-radio-2020.md)
-
-## 🧠 Knowledge Management
-
-## Unsorted
-
-* [Channeling My Inner Chaos](unsorted/page-5.md)
+* [Channeling My Inner Chaos](to-be-categorized/channeling-my-inner-chaos.md)
