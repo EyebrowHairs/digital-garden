@@ -11,15 +11,15 @@ Honestly, I can't remember how I first encountered the concept of a digital gard
 **My digital garden...**
 
 * **Contains** [**curated**](https://joelhooks.com/digital-garden) **ideas and online content that I'd like to revisit**. I have opted to share this publicly as a means of sharing knowledge, and also as a source of motivation (to create useful things for others).
-* **Can include anything**. I can curate content on any theme or topic, whatever suits my interest, and it can all live harmoniously in this space.
+* **Can include items on any topic**. I can curate content on any theme or topic, whatever suits my interest, and it can all live harmoniously (I hope) in this space.
 * **Is a work in progress**. All pages can be updated and revised at any time (and not even regularly).
-* I**s not quite a blog** where each article is highly polished before being published. Neither is the content presented [chronologically](https://stackingthebricks.com/how-blogs-broke-the-web/). I'm also not concerned with racking up views or writing purely to monetize (which is such a waste of human effort and digital space).
+* **Is not quite a blog** where each article is highly polished before being published. Neither is the content presented [chronologically](https://stackingthebricks.com/how-blogs-broke-the-web/). I'm also not concerned with racking up views or writing purely to monetize (which I believe is a waste of human effort and digital space).
 
 #### Platform
 
 I've tried several times to wrangle together a digital garden with Jekyll and other static site generators, but unfortunately, I didn't have much success in learning all the little ins and outs to customize it to my desires and also maintain it.&#x20;
 
-Ultimately, I wanted a documentation-style layout for my digital garden, so I've settled on Gitbook, which also offers a WYSIWYG editor so I don't even have to worry about getting any styling (typically in Markdown) correct before publishing pages.
+Ultimately, I wanted a documentation-style layout for my digital garden, so I've settled on Gitbook, which offers a WYSIWYG editor so I don't even have to worry about getting any styling (typically in Markdown) correct before publishing pages.
 
 There are several constraints to Gitbook, such as the inability to customize things such as colours and fonts for free, or to add cool features such as [side/margin notes](https://www.gwern.net/Sidenotes), or [webmentions](https://indieweb.org/Webmention).
 
@@ -35,4 +35,6 @@ However, on the plus side, my content is not entirely tied to this system, as I 
 
 For recent updates, see my [now.md](welcome/now.md "mention") page.
 
-I am a student of information studies, violin-learner, crafter, reader, and like to consider myself a [multipotentialite](https://en.wikipedia.org/wiki/Multipotentiality), or generalist (vs. specialist).&#x20;
+I currently work in information management, and am a crafter, reader, and like to consider myself a [multipotentialite](https://en.wikipedia.org/wiki/Multipotentiality), or generalist.
+
+I blog about craft things at [https://hbeemakes.wordpress.com/](https://hbeemakes.wordpress.com/).
