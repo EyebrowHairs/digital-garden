@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # Welcome
 
 > _“I give myself very good advice, but I very seldom follow it.”_
