@@ -17,6 +17,6 @@ Additions may be infrequent, as I will put more effort into the quality of conte
 
 Enjoy!
 
-### Map of Recommended Reads
+### Recommended Reads
 
 _coming soon!_
